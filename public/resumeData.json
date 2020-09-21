@@ -1,0 +1,156 @@
+{
+  "main": {
+    "name": "Tejas Ghanwat",
+    "occupation": "Front End Developer & UX Designer",
+    "description": "",
+    "image": "tejas.jpg",
+    "bio": "My name is Tejas, I'm a Front End Developer and UX Designer. I'm a Graduate from Washington State University with a 'Masters in Computer Science' degree. I have 1+ years of experience designing attractive user interfaces and developing responsive state of the art websites using modern front end technologies. Along with Computer Science, I also enjoy Singing, Vlogging and Music Production. I've been training for Indian and Western classical singing and have also been part of the Tenor-Bass choir at WSU School of Music.",
+    "contactmessage": "Get in touch with me!",
+    "email": "tejas.aghanwat@gmail.com",
+    "phone": "+1 (509) 592-1848",
+    "address": {
+      "street": "1535 NE Merman Dr",
+      "city": "Pullman",
+      "state": "WA",
+      "zip": "99163"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/TejasGhanwat",
+        "className": "fa fa-github"
+      },
+
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tejas-ghanwat",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/tejas.ghanwat.3",
+        "className": "fa fa-facebook"
+      },
+
+      {
+        "name": "instagram",
+        "url": "https://www.youtube.com/channel/UCVllknH_bKu6yJHysYgZb0A",
+        "className": "fa fa-youtube"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Being a front end developer I have strong hold on front end technologies such as HTML5, CSS3, ES6, Javascript and ReactJS. I love User Experience design and have been using Adobe XD mainly for UX design. I've used Firebase's Realtime-database and Cloud Firestore in various web applications and MongoDB for databases. ",
+    "education": [
+      {
+        "school": "Washington State University",
+        "degree": "Masters in Computer Science",
+        "graduated": "May 2020",
+        "description": "My Masters program was well balanced with courses ranging from various areas of computer science. I got to study interesting courses like Machine Learning, Data Science, Computer Science, Algorithms, Human Computer Interaction and Web Development. My masters program at WSU not only helped me explore new technologies like R, ReactJS, NodeJS, Python but also helped me strengthen my existing fundamental knowledge of Computer Science."
+      }
+    ],
+    "work": [
+      {
+        "company": "Washington State University",
+        "title": "Graduate Research Intern",
+        "years": "Sept 2020 - Present",
+        "description": "Collaborate with the 'Food and Nutrition Dept.' of Washington State University to develop a mobile application for \"Milk Shelf Life Sensor\" project. I'm currently working on the user experience design of the application. I'm creating UX designs in Adobe XD and will be developing the mobile app in Android Studio."
+      },
+      {
+        "company": "Infinite Options LLC",
+        "title": "Front End Web Developer",
+        "years": "Aug 2020 - Present",
+        "description": "Design and improve user experience using Adobe XD for 'Meal to Your Door' project, a web app that allows customers to subscribe to meal plans and get weekly meal deliveries. Contribute to the web app development which is being developed using ReacJS and Redux. Collaborate with back-end developers and integrate webpages with APIs."
+      },
+      {
+        "company": "Washington State University",
+        "title": "Front End Developer",
+        "years": "Oct 2019 - May 2020",
+        "description": "I was the Front End Lead on the project team in a team of 5. Design User Experiences using Adobe XD, Figma and Invision Studio. Desgin mockups, wireframes for client presentation and compile design document. Contribute to the front end development of RESTful web apps. Develop aesthetically pleasing user interfaces using technologies like HTML5, CSS3, SASS, ES6, Jquery, Bootstrap, ReactJS, NodeJS."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Adobe XD",
+        "level": "85%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Extremely hardworking is the phrase that comes to mind when I think about Tejas. I’ve had the pleasure of knowing Tejas for almost a year, during which we worked together to develop an enterprise level application to be used by Washington State University to send out notices to students. Above all, I was impressed with Tejas’s ability to go above and beyond what was required to ensure we were on top of things. And, of course, his openness to discuss new ideas even later in the project was impressive too. Tejas would be a true asset for any positions requiring front-end development and comes with my heartfelt recommendation.",
+        "user": "Nouman Shafqat"
+      },
+      {
+        "text": "We have worked on numerous projects together. One of them was our final year project which involves building an AI-driven gaming agent to play PacMan using Monte Carlo Tree Search (MCTS) Algorithm. He is productive, intelligent, has excellent communication skills, and is willing to help whenever needed. Tejas is the kind of person who does anything for the group’s interest. A great colleague!",
+        "user": "Amit Kosti"
+      },
+
+      {
+        "text": "Tejas is not only a very good friend but also a very good team member. We were together in our final year computers bachelor degree project where we worked on AI Pacman game bot. Throughout the project Tejas showed good team work, leadership and management skills. His knowledge in the respective domain was of great use towards building the project and making it a success. Not only that, but he is also someone who would make a very tense environment light by his good sense of humor which we could use well during stressful times. I always looked forward to working with him and was always glad to learn new things from him. I'd like to recommend him to potential employers as he is very knowledgeable, patient and knows how to get work done. Also he will bring about much needed vibrance in your team.",
+        "user": "Bharat Rao"
+      }
+    ]
+  }
+}
