@@ -9,16 +9,16 @@ class Portfolio extends Component {
           <div key={projects.title} className='columns portfolio-item'>
             <div className='item-wrap'>
               <a href={projects.url} title={projects.title}>
-                <img alt={projects.title} src={projectImage} />
-                <div className='overlay'>
-                  <div className='portfolio-item-meta'>
-                    <h5>{projects.title}</h5>
-                    <p>{projects.category}</p>
-                  </div>
-                </div>
-                <div className='link-icon'>
-                  <i className='fa fa-link'></i>
-                </div>
+                <img
+                  style={{ height: "170px", width: "350px" }}
+                  alt={projects.title}
+                  src={projectImage}
+                />
+              </a>
+              <h1 style={{ margin: "1.5rem" }}>{projects.title}</h1>
+              <p style={{ marginBottom: "5px" }}>{projects.category}</p>
+              <a href={projects.urlOther} alt='#'>
+                {projects.urlTitle}
               </a>
             </div>
           </div>

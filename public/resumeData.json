@@ -2,7 +2,7 @@
   "main": {
     "name": "Tejas Ghanwat",
     "occupation": "Front End Developer & UX Designer",
-    "description": "",
+    "description": "Website under construction...",
     "image": "tejas.jpg",
     "bio": "My name is Tejas, I'm a Front End Developer and UX Designer. I'm a Graduate from Washington State University with a 'Masters in Computer Science' degree. I have 1+ years of experience designing attractive user interfaces and developing responsive state of the art websites using modern front end technologies. Along with Computer Science, I also enjoy Singing, Vlogging and Music Production. I've been training for Indian and Western classical singing and have also been part of the Tenor-Bass choir at WSU School of Music.",
     "contactmessage": "Get in touch with me!",
@@ -126,34 +126,32 @@
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "Meals To Your Door (MTYD)",
+        "urlTitle": "",
+        "category": "A meal delivery web app (ReactJS, NodeJS, Redux) currently in production....",
+        "image": "mtyd.jpg",
+        "urlOther": "",
+        "url": "https://mealtoyourdoor.netlify.app/select-meal"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "myWSU Housing app UI design",
+        "urlTitle": "Usability Test Video",
+        "category": "An android app for WSU housing residents",
+        "image": "mywsu housing.jpg",
+        "urlOther": "https://www.youtube.com/watch?v=CcJj8OyhSzk",
+        "url": "https://www.behance.net/gallery/81224419/myWsu-Housing-App"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "title": "BikeScope - Bike trip Planner Website Prototype",
+        "category": "A website prototype in Adobe XD",
+        "image": "bikescope.jpg",
+        "url": "https://www.behance.net/gallery/91258357/BikeScope-Bike-Trip-Planner-Website"
       },
       {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "Milk Sensor App",
+        "category": "Mobile app prototype designed in Adobe XD",
+        "image": "Home.jpg",
+        "url": "https://xd.adobe.com/view/bb3a980f-2168-4872-5fb0-f7d69cdd73d6-cd0b/?fullscreen"
       }
     ]
   },
