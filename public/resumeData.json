@@ -134,16 +134,24 @@
         "url": "https://mealtoyourdoor.netlify.app/select-meal"
       },
       {
+        "title": "myWSU Notices Redesign",
+        "urlTitle": "",
+        "category": "Critical analysis of existing user interfaces along with proposed user experience.",
+        "image": "notices.jpg",
+        "urlOther": "",
+        "url": "https://xd.adobe.com/view/94b096f2-3b99-4b9a-41c3-aa669069eeaa-e281/?fullscreen"
+      },
+      {
         "title": "myWSU Housing app UI design",
         "urlTitle": "Usability Test Video",
-        "category": "An android app for WSU housing residents",
+        "category": "An android app for WSU housing residents.",
         "image": "mywsu housing.jpg",
         "urlOther": "https://www.youtube.com/watch?v=CcJj8OyhSzk",
         "url": "https://www.behance.net/gallery/81224419/myWsu-Housing-App"
       },
       {
         "title": "BikeScope - Bike trip Planner Website Prototype",
-        "category": "A website prototype in Adobe XD",
+        "category": "A website prototype in Adobe XD.",
         "image": "bikescope.jpg",
         "url": "https://www.behance.net/gallery/91258357/BikeScope-Bike-Trip-Planner-Website"
       },
@@ -152,14 +160,6 @@
         "category": "Mobile app prototype designed in Adobe XD. I'm currently developing this app in react-native.",
         "image": "Home.jpg",
         "url": "https://xd.adobe.com/view/bb3a980f-2168-4872-5fb0-f7d69cdd73d6-cd0b/?fullscreen"
-      },
-      {
-        "title": "myWSU Notices Redesign",
-        "urlTitle": "",
-        "category": "This project will be available soon...",
-        "image": "notices.jpg",
-        "urlOther": "",
-        "url": ""
       },
       {
         "title": "Reloc - Travel Manager App",
