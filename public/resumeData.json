@@ -2,7 +2,7 @@
   "main": {
     "name": "Tejas Ghanwat",
     "occupation": "Front End Developer & UX Designer",
-    "description": "Website under construction...",
+    "description": "",
     "image": "tejas.jpg",
     "bio": "My name is Tejas, I'm a Front End Developer and UX Designer. I'm a Graduate from Washington State University with a 'Masters in Computer Science' degree. I have 1+ years of experience designing attractive user interfaces and developing responsive state of the art websites using modern front end technologies. Along with Computer Science, I also enjoy Singing, Vlogging and Music Production. I've been training for Indian and Western classical singing and have also been part of the Tenor-Bass choir at WSU School of Music.",
     "contactmessage": "Get in touch with me!",
@@ -14,8 +14,8 @@
       "state": "WA",
       "zip": "99163"
     },
-    "website": "https://drive.google.com/uc?export=download&id=1isWyaeQNp71KC9-n386xijCKJgar3W3y",
-    "resumedownload": "https://drive.google.com/uc?export=download&id=1isWyaeQNp71KC9-n386xijCKJgar3W3y",
+    "website": "https://drive.google.com/uc?export=download&id=13EJpiUliNCbooA5KzTlgLjJseqLO9456",
+    "resumedownload": "https://drive.google.com/uc?export=download&id=13EJpiUliNCbooA5KzTlgLjJseqLO9456",
     "social": [
       {
         "name": "github",
@@ -77,7 +77,7 @@
       },
       {
         "company": "Infinite Options LLC",
-        "title": "Front End Web Developer",
+        "title": "ReactJS Developer",
         "years": "Aug 2020 - Present",
         "description": "Design and improve user experience using Adobe XD for 'Meal to Your Door' project, a web app that allows customers to subscribe to meal plans and get weekly meal deliveries. Contribute to the web app development which is being developed using ReacJS and Redux. Collaborate with back-end developers and integrate webpages with APIs."
       },
@@ -149,9 +149,25 @@
       },
       {
         "title": "Milk Sensor App",
-        "category": "Mobile app prototype designed in Adobe XD",
+        "category": "Mobile app prototype designed in Adobe XD. I'm currently developing this app in react-native.",
         "image": "Home.jpg",
         "url": "https://xd.adobe.com/view/bb3a980f-2168-4872-5fb0-f7d69cdd73d6-cd0b/?fullscreen"
+      },
+      {
+        "title": "myWSU Notices Redesign",
+        "urlTitle": "",
+        "category": "This project will be available soon...",
+        "image": "notices.jpg",
+        "urlOther": "",
+        "url": ""
+      },
+      {
+        "title": "Reloc - Travel Manager App",
+        "urlTitle": "",
+        "category": "This project will be available soon...",
+        "image": "reloc.jpg",
+        "urlOther": "",
+        "url": ""
       }
     ]
   },
@@ -159,15 +175,19 @@
     "testimonials": [
       {
         "text": "Extremely hardworking is the phrase that comes to mind when I think about Tejas. I’ve had the pleasure of knowing Tejas for almost a year, during which we worked together to develop an enterprise level application to be used by Washington State University to send out notices to students. Above all, I was impressed with Tejas’s ability to go above and beyond what was required to ensure we were on top of things. And, of course, his openness to discuss new ideas even later in the project was impressive too. Tejas would be a true asset for any positions requiring front-end development and comes with my heartfelt recommendation.",
-        "user": "Nouman Shafqat"
+        "user": "Nouman Shafqat (Enterprise Systems - WSU)"
       },
       {
         "text": "We have worked on numerous projects together. One of them was our final year project which involves building an AI-driven gaming agent to play PacMan using Monte Carlo Tree Search (MCTS) Algorithm. He is productive, intelligent, has excellent communication skills, and is willing to help whenever needed. Tejas is the kind of person who does anything for the group’s interest. A great colleague!",
-        "user": "Amit Kosti"
+        "user": "Amit Kosti (University of Mumbai)"
       },
       {
         "text": "Tejas is not only a very good friend but also a very good team member. We were together in our final year computers bachelor degree project where we worked on AI Pacman game bot. Throughout the project Tejas showed good team work, leadership and management skills. His knowledge in the respective domain was of great use towards building the project and making it a success. Not only that, but he is also someone who would make a very tense environment light by his good sense of humor which we could use well during stressful times. I always looked forward to working with him and was always glad to learn new things from him. I'd like to recommend him to potential employers as he is very knowledgeable, patient and knows how to get work done. Also he will bring about much needed vibrance in your team.",
-        "user": "Bharat Rao"
+        "user": "Bharat Rao (University of Mumbai)"
+      },
+      {
+        "text": "Your are a great student, Tejas, and an even greater human. I thoroughly enjoyed the work we did together last year, as it's not often that I get to give that type of solo repertoire to just anyone. When I've got a student as skilled and hardworking as you, it never feels like a job, but a meaningful artistic collaboration; to me, that's the highest praise. I hope that you'll return to private study at some point, as your voice is a gift from God. Truthfully, I don't think you understand yet what it is you possess, so..please please please don't let it go to waste. Keep the music we worked on warm and bring it to your next teacher when your life allows for more freedom.",
+        "user": "Dr. Christopher Nakielski (WSU School of Music)"
       }
     ]
   }
