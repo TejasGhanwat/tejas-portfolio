@@ -59,7 +59,7 @@
     }
   ],
   "resume": {
-    "skillmessage": "Being a front end developer I have strong hold on front end technologies such as HTML5, CSS3, ES6, Javascript and ReactJS. I love User Experience design and have been using Adobe XD mainly for UX design. I've used Firebase's Realtime-database and Cloud Firestore in various web applications and MongoDB for databases. ",
+    "skillmessage": "I have strong hold on front end technologies such as HTML5, CSS3, ES6, Javascript and ReactJS. I love User Experience design and have been using Adobe XD mainly for UX design. I've used Firebase's Realtime-database and Cloud Firestore in various web applications and MongoDB for databases. ",
     "education": [
       {
         "school": "Washington State University",
@@ -73,7 +73,7 @@
         "company": "Smart Grid Demonstration and Research Investigation Lab",
         "title": "React-Native Developer",
         "years": "Sept 2020 - Present",
-        "description": "Collaborate with the 'Food and Nutrition Dept.' of Washington State University to develop a mobile application for \"Milk Shelf Life Sensor\" project. I'm currently working on the user experience design of the application. I'm creating UX designs in Adobe XD and will be developing the mobile app in Android Studio."
+        "description": "Collaborate with the 'Food and Nutrition Dept.' of Washington State University to develop a mobile application for \"Milk Shelf Life Sensor\" project. I'm currently working on the user experience design of the application. I'm creating UX designs in Adobe XD and will be developing the mobile app in React-Native."
       },
       {
         "company": "Infinite Options LLC",
@@ -91,11 +91,15 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "80%"
+        "level": "75%"
       },
       {
         "name": "React-Native",
         "level": "60%"
+      },
+      {
+        "name": "Javascript",
+        "level": "70%"
       },
       {
         "name": "NodeJs",
@@ -115,7 +119,7 @@
       },
       {
         "name": "HTML5",
-        "level": "80%"
+        "level": "85%"
       },
       {
         "name": "MongoDB",
@@ -162,7 +166,7 @@
         "url": "https://xd.adobe.com/view/bb3a980f-2168-4872-5fb0-f7d69cdd73d6-cd0b/?fullscreen"
       },
       {
-        "title": "Reloc - Travel Manager App",
+        "title": "Reloc - Travel Manager App Design",
         "urlTitle": "",
         "category": "This project will be available soon...",
         "image": "reloc.jpg",
