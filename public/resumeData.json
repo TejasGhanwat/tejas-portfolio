@@ -54,7 +54,6 @@
     },
     {
       "title": "Performance",
-
       "imgUrl": "https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/10628135_817262388318022_1639268265507558565_n.jpg?_nc_cat=102&_nc_sid=7aed08&_nc_ohc=TSQAekc0ndkAX-9Tb-o&_nc_oc=AQnN2DhmxUC1NZ3VoJkkXgB4yyMcg7IR13VqrvbLND8DGlVgmnhPcwiU_JXmHCqg6ZMix6gnuL5z4qUE00RZH2k5&_nc_ht=scontent-lax3-1.xx&oh=20440198cffa3b808508ea9cf8234719&oe=5F8F87F6"
     }
   ],
@@ -78,8 +77,8 @@
       {
         "company": "Infinite Options LLC",
         "title": "ReactJS Developer",
-        "years": "Aug 2020 - Present",
-        "description": "Design and improve user experience using Adobe XD for 'Meal to Your Door' project, a web app that allows customers to subscribe to meal plans and get weekly meal deliveries. Contribute to the web app development which is being developed using ReacJS and Redux. Collaborate with back-end developers and integrate webpages with APIs."
+        "years": "Aug 2020 - Oct 2020",
+        "description": "Contributed in enhancing the UX for advisors to efficiently track and assign tasks for patients with amnesia, by designing a timeline-based user interface using Adobe XD, improving visual representation of tasks and events. Design and improve user experience using Adobe XD for 'Meal to Your Door' project, a web app that allows customers to subscribe to meal plans and get weekly meal deliveries. Contribute to the web app development which is being developed using ReacJS and Redux. Collaborate with back-end developers and integrate webpages with APIs."
       },
       {
         "company": "Washington State University",
@@ -146,6 +145,14 @@
         "url": "https://xd.adobe.com/view/94b096f2-3b99-4b9a-41c3-aa669069eeaa-e281/?fullscreen"
       },
       {
+        "title": "'Project Caitlin'",
+        "urlTitle": "Project Video",
+        "category": "A web app to assign and manage tasks for people with anterograde amnesia",
+        "image": "caitlin.jpg",
+        "urlOther": "https://www.youtube.com/watch?v=Uqqi5AJw3l8&t=94s&ab_channel=NotImpossible",
+        "url": "https://manifestmy.space/"
+      },
+      {
         "title": "myWSU Housing app UI design",
         "urlTitle": "Usability Test Video",
         "category": "An android app for WSU housing residents.",
@@ -164,15 +171,8 @@
         "category": "Mobile app prototype designed in Adobe XD. I'm currently developing this app in react-native.",
         "image": "Home.jpg",
         "url": "https://xd.adobe.com/view/bb3a980f-2168-4872-5fb0-f7d69cdd73d6-cd0b/?fullscreen"
-      },
-      {
-        "title": "Reloc - Travel Manager App Design",
-        "urlTitle": "",
-        "category": "This project will be available soon...",
-        "image": "reloc.jpg",
-        "urlOther": "",
-        "url": ""
       }
+     
     ]
   },
   "testimonials": {
