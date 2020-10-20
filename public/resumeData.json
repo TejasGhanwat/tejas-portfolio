@@ -72,19 +72,19 @@
         "company": "Smart Grid Demonstration and Research Investigation Lab",
         "title": "React-Native Developer",
         "years": "Sept 2020 - Present",
-        "description": "Collaborate with the 'Food and Nutrition Dept.' of Washington State University to develop a mobile application for \"Milk Shelf Life Sensor\" project. I'm currently working on the user experience design of the application. I'm creating UX designs in Adobe XD and will be developing the mobile app in React-Native."
+        "description": "Working in collaboration with the 'Food and Nutrition Dept.' of Washington State University to develop a mobile application for \"Milk Shelf Life Sensor\" project. The mobile application is being developed in a way that would capture the image of the milk sensor using the smartphone's camera (expo-camera), and calculate the milk's shelf life using color detection package 'react-native-image-colors'.  I'm the sole UX designer and developer on this project. Designed the user experience for mobile application using Adobe XD (link in portfolio). Currently developing the mobile application using react-native (Expo camera | react-native-image-colors')."
       },
       {
         "company": "Infinite Options LLC",
         "title": "ReactJS Developer",
         "years": "Aug 2020 - Oct 2020",
-        "description": "Contributed in enhancing the UX for advisors to efficiently track and assign tasks for patients with amnesia, by designing a timeline-based user interface using Adobe XD, improving visual representation of tasks and events. Design and improve user experience using Adobe XD for 'Meal to Your Door' project, a web app that allows customers to subscribe to meal plans and get weekly meal deliveries. Contribute to the web app development which is being developed using ReacJS and Redux. Collaborate with back-end developers and integrate webpages with APIs."
+        "description": "Contributed in enhancing the UX for advisors to efficiently track and assign tasks for patients with amnesia, by designing a timeline-based user interface using Adobe XD, improving visual representation of tasks and events. Design and improve user experience using Adobe XD for 'Meal to Your Door' project, a web app that allows customers to subscribe to meal plans and get weekly meal deliveries. Contribute to the web app development which is being developed using ReactJS and Redux. Collaborate with back-end developers and integrate webpages with APIs."
       },
       {
         "company": "Washington State University",
         "title": "Front End Developer",
         "years": "Oct 2019 - May 2020",
-        "description": "I was the Front End Lead on the project team in a team of 5. Design User Experiences using Adobe XD, Figma and Invision Studio. Desgin mockups, wireframes for client presentation and compile design document. Contribute to the front end development of RESTful web apps. Develop aesthetically pleasing user interfaces using technologies like HTML5, CSS3, SASS, ES6, Jquery, Bootstrap, ReactJS, NodeJS."
+        "description": " I was Front End Lead in a team of 5. Redesigned and improved the existing user experience for web applications used by students and staff in the university. Designed mockups and wireframes and presented to stakeholders for feedback and preferences. Compiled the design document based on the results of usability tests conducted with student and admin participants and according to the stakeholder preferences. Developed web applications using modern front end technologies( HTML5, Spring MVC, Thymeleaf, CSS3, SASS, ES6, Jquery, Bootstrap, ReactJS, NodeJS). Collaborated with backend developers to integrate views in the web application developed using Spring MVC."
       }
     ],
     "skills": [
