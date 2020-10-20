@@ -8,7 +8,12 @@ class Portfolio extends Component {
         return (
           <div key={projects.title} className='columns portfolio-item'>
             <div className='item-wrap'>
-              <a href={projects.url} target='_blank' title={projects.title}>
+              <a
+                href={projects.url}
+                rel='noopener noreferrer'
+                target='_blank'
+                title={projects.title}
+              >
                 <img
                   style={{ height: "170px", width: "350px" }}
                   alt={projects.title}
