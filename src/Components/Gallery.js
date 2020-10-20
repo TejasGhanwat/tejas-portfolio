@@ -8,7 +8,11 @@ class About extends Component {
           <li key={pic.title}>
             <a href={pic.url}>
               <img
-                style={{ margin: "5px", padding: "5px" }}
+                style={{
+                  height: "1200px",
+                  margin: "5px",
+                  padding: "5px",
+                }}
                 src={pic.imgUrl}
                 alt={pic.title}
               ></img>
@@ -21,7 +25,11 @@ class About extends Component {
     return (
       <section id='gallery'>
         <ul
-          style={{ display: "flex", flexDirection: "row", marginRight: "7px" }}
+          style={{
+            display: "flex",
+            flexDirection: "row",
+            marginRight: "7px",
+          }}
         >
           {pics}
         </ul>

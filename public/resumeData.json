@@ -45,12 +45,12 @@
     {
       "title": "A still from choir",
       "url": "https://www.youtube.com/watch?v=P1MyrRycnXk&ab_channel=TejasGhanwat",
-      "imgUrl": "https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/s960x960/61925189_2463176487059929_4494148251187937280_o.jpg?_nc_cat=105&_nc_sid=110474&_nc_ohc=ZfxW2LJK2yUAX9T25oG&_nc_ht=scontent-lax3-1.xx&tp=7&oh=595e8ab15fb029b1f308ddcc246e2517&oe=5F8E90D5"
+      "imgUrl": "https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/61925189_2463176487059929_4494148251187937280_o.jpg?_nc_cat=105&_nc_sid=8bfeb9&_nc_ohc=CJL_ZTNwGt0AX_Kb7Se&_nc_ht=scontent-lax3-1.xx&oh=b5d22b5d227224b9f944d704e95c79e9&oe=5FB3A0B4"
     },
     {
       "title": "Graduation",
-      "url": "https://www.facebook.com/tejas.ghanwat.3/posts/3188672661176971?__xts__%5B0%5D=68.ARCxQenuq1CsoU1vMPEG01IZ98rhpmYnMHnQdvege14q0gyKaWcSESJmPCMroUqdo-5ZGVmU_btmdCqb9lIX9Z5S-QJSmeKAIlCN0YoWQdrGYZk-QBEKWuChe7udQrMJWHkF8aBB-Lff8aZY6aCM1vjD4fYn_xzZ3IQ4q2TP03lB8g9Y-MpaWKhix9tX91Ec-Us4AXdZKD-kLwQSHQynKQyGwMHneDuEooA4rmH00XTU7N5xkM2iKMxummfvjGiImhendGk6qrU4jXDZQUOudVsTq2qbqbDgNiTT&__tn__=-R",
-      "imgUrl": "https://scontent-lax3-2.xx.fbcdn.net/v/t1.0-9/s960x960/97137085_3188671737843730_4832947159965892608_o.jpg?_nc_cat=111&_nc_sid=8024bb&_nc_ohc=ks2Yw1dBAucAX8GCFi2&_nc_ht=scontent-lax3-2.xx&tp=7&oh=ecbfee6e669389675fecd3988a4e3c5d&oe=5F8D538C"
+      "url": "https://scontent-lax3-2.xx.fbcdn.net/v/t1.0-9/97137085_3188671737843730_4832947159965892608_o.jpg?_nc_cat=111&_nc_sid=730e14&_nc_ohc=vqcid-fehckAX_6rKwv&_nc_ht=scontent-lax3-2.xx&oh=207ca9c9709b951b3d3dbb11f3a5de3f&oe=5FB6B3ED",
+      "imgUrl": "https://scontent-lax3-2.xx.fbcdn.net/v/t1.0-9/97137085_3188671737843730_4832947159965892608_o.jpg?_nc_cat=111&_nc_sid=730e14&_nc_ohc=vqcid-fehckAX_6rKwv&_nc_ht=scontent-lax3-2.xx&oh=207ca9c9709b951b3d3dbb11f3a5de3f&oe=5FB6B3ED"
     },
     {
       "title": "Performance",
@@ -134,7 +134,7 @@
         "category": "A meal delivery web app (ReactJS, NodeJS, Redux) currently in production....",
         "image": "mtyd.jpg",
         "urlOther": "",
-        "url": "https://mealtoyourdoor.netlify.app/select-meal"
+        "url": "https://mealtoyourdoor.netlify.app"
       },
       {
         "title": "myWSU Notices Redesign",
@@ -172,7 +172,6 @@
         "image": "Home.jpg",
         "url": "https://xd.adobe.com/view/bb3a980f-2168-4872-5fb0-f7d69cdd73d6-cd0b/?fullscreen"
       }
-     
     ]
   },
   "testimonials": {
