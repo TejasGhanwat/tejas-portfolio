@@ -9,7 +9,7 @@ class About extends Component {
             <a href={pic.url}>
               <img
                 style={{
-                  height: "1200px",
+                  height: "800px",
                   margin: "5px",
                   padding: "5px",
                 }}
