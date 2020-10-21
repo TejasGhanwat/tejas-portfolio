@@ -45,16 +45,16 @@
     {
       "title": "A still from choir",
       "url": "https://www.youtube.com/watch?v=P1MyrRycnXk&ab_channel=TejasGhanwat",
-      "imgUrl": "https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/61925189_2463176487059929_4494148251187937280_o.jpg?_nc_cat=105&_nc_sid=8bfeb9&_nc_ohc=CJL_ZTNwGt0AX_Kb7Se&_nc_ht=scontent-lax3-1.xx&oh=b5d22b5d227224b9f944d704e95c79e9&oe=5FB3A0B4"
+      "imgUrl": "../images/choir.jpg"
+    },
+    {
+      "title": "Performance",
+      "imgUrl": "../images/stage.jpg"
     },
     {
       "title": "Graduation",
       "url": "https://scontent-lax3-2.xx.fbcdn.net/v/t1.0-9/97137085_3188671737843730_4832947159965892608_o.jpg?_nc_cat=111&_nc_sid=730e14&_nc_ohc=vqcid-fehckAX_6rKwv&_nc_ht=scontent-lax3-2.xx&oh=207ca9c9709b951b3d3dbb11f3a5de3f&oe=5FB6B3ED",
-      "imgUrl": "https://scontent-lax3-2.xx.fbcdn.net/v/t1.0-9/97137085_3188671737843730_4832947159965892608_o.jpg?_nc_cat=111&_nc_sid=730e14&_nc_ohc=vqcid-fehckAX_6rKwv&_nc_ht=scontent-lax3-2.xx&oh=207ca9c9709b951b3d3dbb11f3a5de3f&oe=5FB6B3ED"
-    },
-    {
-      "title": "Performance",
-      "imgUrl": "https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/10628135_817262388318022_1639268265507558565_n.jpg?_nc_cat=102&_nc_sid=7aed08&_nc_ohc=TSQAekc0ndkAX-9Tb-o&_nc_oc=AQnN2DhmxUC1NZ3VoJkkXgB4yyMcg7IR13VqrvbLND8DGlVgmnhPcwiU_JXmHCqg6ZMix6gnuL5z4qUE00RZH2k5&_nc_ht=scontent-lax3-1.xx&oh=20440198cffa3b808508ea9cf8234719&oe=5F8F87F6"
+      "imgUrl": "../images/grad.jpg"
     }
   ],
   "resume": {

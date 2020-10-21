@@ -9,9 +9,10 @@ class About extends Component {
             <a href={pic.url}>
               <img
                 style={{
-                  height: "800px",
                   margin: "5px",
                   padding: "5px",
+                  height: "auto",
+                  width: "100%",
                 }}
                 src={pic.imgUrl}
                 alt={pic.title}
