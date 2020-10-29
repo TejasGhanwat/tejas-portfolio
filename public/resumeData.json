@@ -15,7 +15,7 @@
       "zip": "99163"
     },
     "website": "https://drive.google.com/uc?export=download&id=1k4khCtZFoQsp7xKPlORd9kxEI--NTwET",
-    "resumedownload": "https://drive.google.com/uc?export=download&id=1k4khCtZFoQsp7xKPlORd9kxEI--NTwET",
+    "resumedownload": "https://drive.google.com/uc?export=download&id=16rBflb6ro2d1_b3yYfV939Wj27rMJLGu",
     "social": [
       {
         "name": "github",
@@ -130,10 +130,10 @@
     "projects": [
       {
         "title": "Meals To Your Door (MTYD)",
-        "urlTitle": "",
-        "category": "A meal delivery web app (ReactJS, NodeJS, Redux) currently in production....",
+        "urlTitle": "UI Designs - Adobe XD",
+        "category": "A meal delivery web app currently in production...",
         "image": "mtyd.jpg",
-        "urlOther": "",
+        "urlOther": "https://xd.adobe.com/view/1209b3a3-7e4a-43de-a425-22c7c5cf4ff2-475a/grid",
         "url": "https://mealtoyourdoor.netlify.app"
       },
       {
@@ -154,10 +154,10 @@
       },
       {
         "title": "myWSU Housing app UI design",
-        "urlTitle": "Usability Test Video",
+        "urlTitle": "Usability Study Report",
         "category": "An android app for WSU housing residents.",
         "image": "mywsu housing.jpg",
-        "urlOther": "https://www.youtube.com/watch?v=CcJj8OyhSzk",
+        "urlOther": "https://drive.google.com/file/d/1-qwDBx6ts0hgc5AIDZsqD9t5uxVGkvhB/view?usp=sharing",
         "url": "https://www.behance.net/gallery/81224419/myWsu-Housing-App"
       },
       {
