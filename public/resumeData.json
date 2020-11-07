@@ -72,7 +72,7 @@
         "company": "Smart Grid Demonstration and Research Investigation Lab",
         "title": "React-Native Developer",
         "years": "Sept 2020 - Present",
-        "description": "Working in collaboration with the 'Food and Nutrition Dept.' of Washington State University to develop a mobile application for \"Milk Shelf Life Sensor\" project. The mobile application is being developed in a way that would capture the image of the milk sensor using the smartphone's camera (expo-camera), and calculate the milk's shelf life using color detection package 'react-native-image-colors'.  I'm the sole UX designer and developer on this project. Designed the user experience for mobile application using Adobe XD (link in portfolio). Currently developing the mobile application using react-native (Expo camera | react-native-image-colors')."
+        "description": "Working in collaboration with the 'Food and Nutrition Dept.' of Washington State University to develop a mobile application for \"Milk Shelf Life Sensor\" project. The mobile application is being developed in a way that would capture the image of the milk sensor using the smartphone's camera (expo-camera), and calculate the milk's shelf life using color detection package 'react-native-image-colors'.  I'm the sole UX designer and developer on this project. Designed the user experience for mobile application using Adobe XD (link in portfolio). Currently developing the mobile application using react-native (Expo camera | react-native-image-colors)."
       },
       {
         "company": "Infinite Options LLC",
@@ -153,18 +153,20 @@
         "url": "https://manifestmy.space/"
       },
       {
+        "title": "BikeScope - Bike trip Planner Website",
+        "urlTitle": "UI Design",
+        "category": "A website prototype",
+        "image": "bikescope.jpg",
+        "urlOther": "https://www.behance.net/gallery/91258357/BikeScope-Bike-Trip-Planner-Website",
+        "url": "https://bikescope.netlify.app/"
+      },
+      {
         "title": "myWSU Housing app UI design",
         "urlTitle": "Usability Study Report",
         "category": "An android app for WSU housing residents.",
         "image": "mywsu housing.jpg",
         "urlOther": "https://drive.google.com/file/d/1-qwDBx6ts0hgc5AIDZsqD9t5uxVGkvhB/view?usp=sharing",
         "url": "https://www.behance.net/gallery/81224419/myWsu-Housing-App"
-      },
-      {
-        "title": "BikeScope - Bike trip Planner Website Prototype",
-        "category": "A website prototype in Adobe XD.",
-        "image": "bikescope.jpg",
-        "url": "https://www.behance.net/gallery/91258357/BikeScope-Bike-Trip-Planner-Website"
       },
       {
         "title": "Milk Sensor App",
