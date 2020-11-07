@@ -11,8 +11,8 @@ class About extends Component {
                 style={{
                   margin: "5px",
                   padding: "5px",
-                  height: "1200px",
-                  width: "803px",
+                  height: "800px",
+                  width: "650px",
                 }}
                 src={pic.imgUrl}
                 alt={pic.title}
