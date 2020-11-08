@@ -8,11 +8,10 @@ class About extends Component {
           <li key={pic.title}>
             <a href={pic.url}>
               <img
+                className='galleryImage'
                 style={{
                   margin: "5px",
                   padding: "5px",
-                  height: "800px",
-                  width: "650px",
                 }}
                 src={pic.imgUrl}
                 alt={pic.title}
