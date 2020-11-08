@@ -129,14 +129,6 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Meals To Your Door (MTYD)",
-        "urlTitle": "UI Designs - Adobe XD",
-        "category": "A meal delivery web app currently in production...",
-        "image": "mtyd.jpg",
-        "urlOther": "https://xd.adobe.com/view/1209b3a3-7e4a-43de-a425-22c7c5cf4ff2-475a/grid",
-        "url": "https://mealtoyourdoor.netlify.app"
-      },
-      {
         "title": "myWSU Notices Redesign",
         "urlTitle": "",
         "category": "Critical analysis of existing user interfaces along with proposed user experience.",
@@ -155,10 +147,18 @@
       {
         "title": "BikeScope - Bike trip Planner Website",
         "urlTitle": "UI Design",
-        "category": "A website prototype",
+        "category": "A website prototype (Responsive - SASS)",
         "image": "bikescope.jpg",
         "urlOther": "https://www.behance.net/gallery/91258357/BikeScope-Bike-Trip-Planner-Website",
         "url": "https://bikescope.netlify.app/"
+      },
+      {
+        "title": "Meals To Your Door (MTYD)",
+        "urlTitle": "UI Designs - Adobe XD",
+        "category": "A meal delivery web app currently in production...",
+        "image": "mtyd.jpg",
+        "urlOther": "https://xd.adobe.com/view/1209b3a3-7e4a-43de-a425-22c7c5cf4ff2-475a/grid",
+        "url": "https://mealtoyourdoor.netlify.app"
       },
       {
         "title": "myWSU Housing app UI design",
