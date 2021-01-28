@@ -4,7 +4,7 @@
     "occupation": "Front End Developer & UX Designer",
     "description": "",
     "image": "tejas.jpg",
-    "bio": "My name is Tejas, I'm a Front End Developer and UX Designer. I'm a Graduate from Washington State University with a 'Masters in Computer Science' degree. I have 1+ years of experience designing attractive user interfaces and developing responsive state of the art websites using modern front end technologies. Along with Computer Science, I also enjoy Singing, Vlogging and Music Production. I've been training for Indian and Western classical singing and have also been part of the Tenor-Bass choir at WSU School of Music.",
+    "bio": "My name is Tejas, I'm a Front End Developer and UX Designer. I'm a Graduate from Washington State University with a 'Masters in Computer Science' degree. I have over 2 years of experience developing web/mobile apps and microservices using wide range of technologies. I love Front end Development and UX design and have experience using JavaScript and modern Front-End libraries including ReactJS and React Native. Along with Computer Science, I also enjoy Singing, Vlogging and Music Production. I've been training for Indian and Western classical singing and have also been part of the Tenor-Bass choir at WSU School of Music.",
     "contactmessage": "Get in touch with me!",
     "email": "tejas.aghanwat@gmail.com",
     "phone": "+1 (509) 592-1848",
@@ -14,8 +14,8 @@
       "state": "WA",
       "zip": "98118"
     },
-    "website": "https://drive.google.com/uc?export=download&id=1k4khCtZFoQsp7xKPlORd9kxEI--NTwET",
-    "resumedownload": "https://drive.google.com/uc?export=download&id=16rBflb6ro2d1_b3yYfV939Wj27rMJLGu",
+    "website": "https://drive.google.com/uc?export=download&id=1zEYDVZl3ej-hW8ZKRkxqo-Y-5HRBr5cZ",
+    "resumedownload": "https://drive.google.com/uc?export=download&id=1zEYDVZl3ej-hW8ZKRkxqo-Y-5HRBr5cZ",
     "social": [
       {
         "name": "github",
@@ -90,7 +90,7 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "75%"
+        "level": "85%"
       },
       {
         "name": "React-Native",
@@ -98,7 +98,7 @@
       },
       {
         "name": "Javascript",
-        "level": "70%"
+        "level": "80%"
       },
       {
         "name": "NodeJs",
@@ -143,6 +143,14 @@
         "image": "caitlin.jpg",
         "urlOther": "https://www.youtube.com/watch?v=Uqqi5AJw3l8&t=94s&ab_channel=NotImpossible",
         "url": "https://manifestmy.space/"
+      },
+      {
+        "title": "Synchrophasor Anomaly/Event Detection and Classification",
+        "urlTitle": "SyncAED UI Design",
+        "category": "Power Grid administrator to monitor and detect anomalies and events",
+        "image": "SyncAED.jpg",
+        "urlOther": "",
+        "url": "https://drive.google.com/file/d/155ZF8Skg2l8_D8PwTU_U1sA3RF1tRrd7/view?usp=sharing"
       },
       {
         "title": "BikeScope - Bike trip Planner Website",
