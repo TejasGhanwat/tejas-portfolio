@@ -54,11 +54,7 @@ class Header extends Component {
                 Testimonials
               </a>
             </li>
-            <li>
-              <a className='smoothscroll' href='#gallery'>
-                Gallery
-              </a>
-            </li>
+
             <li>
               <a className='smoothscroll' href='#contact'>
                 Contact
